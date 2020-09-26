@@ -13,7 +13,8 @@
   "event": {
     "style": "Style",
     "artists": "Artistes",
-    "details": "Détails"
+    "details": "Détails",
+    "price": "Prix"
   },
   "date": {
     "january": {
