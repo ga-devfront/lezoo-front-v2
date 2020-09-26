@@ -1,68 +1,68 @@
 {
   "menu": {
-    "about": "A propos",
-    "access": "Acces",
+    "about": "About",
+    "access": "Access",
     "agenda": "Agenda",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "podcast": "Podcast",
-    "ticket": "Billeterie"
+    "ticket": "Ticket"
   },
   "button": {
-    "moreInfos": "Plus d'infos"
+    "moreInfos": "More infos"
   },
   "event": {
     "style": "Style",
-    "artists": "Artistes",
-    "details": "Détails",
-    "price": "Prix"
+    "artists": "Artists",
+    "details": "Details",
+    "price": "Price"
   },
   "date": {
     "january": {
-      "long": "Janvier",
+      "long": "January",
       "short":"JAN"
     },
     "february": {
-      "long": "Février",
+      "long": "February",
       "short":"FEV"
     },
     "march": {
-      "long": "Mars",
+      "long": "March",
       "short":"MAR"
     },
     "april": {
-      "long": "Avril",
-      "short":"AVR"
+      "long": "April",
+      "short":"APR"
     },
     "may": {
-      "long": "Mai",
-      "short":"MAI"
+      "long": "May",
+      "short":"MAY"
     },
     "june": {
-      "long": "Juin",
+      "long": "June",
       "short":"JUN"
     },
     "july": {
-      "long": "Juillet",
+      "long": "July",
       "short":"JUL"
     },
     "august": {
-      "long": "Août",
-      "short":"AOU"
+      "long": "August",
+      "short":"AUG"
     },
     "september": {
-      "long": "Septembre",
+      "long": "September",
       "short":"SEP"
     },
     "october": {
-      "long": "Octobre",
+      "long": "October",
       "short":"OCT"
     },
     "november": {
-      "long": "Novembre",
+      "long": "November",
       "short":"NOV"
     },
     "december": {
-      "long": "Decembre",
+      "long": "December",
       "short":"DEC"
     }
   },
