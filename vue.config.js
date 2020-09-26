@@ -7,4 +7,6 @@ module.exports = {
       enableInSFC: false,
     },
   },
+
+  publicPath: '/private/zoo2'
 };
