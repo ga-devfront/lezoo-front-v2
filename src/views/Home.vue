@@ -1,5 +1,5 @@
 <template>
-  <v-container>
+  <v-container fill-height>
     <v-row align="center" justify="center">
       <v-col xs="12" sm="12" md="10" lg="8" xl="8" cols="12">
         <EventCard :event="event" :size="'large'"/>

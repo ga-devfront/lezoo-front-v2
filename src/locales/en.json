@@ -14,7 +14,8 @@
     "style": "Style",
     "artists": "Artists",
     "details": "Details",
-    "price": "Price"
+    "price": "Price",
+    "filterStyle": "Filter by style"
   },
   "date": {
     "january": {
