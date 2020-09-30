@@ -1,6 +1,6 @@
 <template>
   <v-card
-  class="mx-auto"
+  :class="'mx-auto ' + size"
   outlined
   color="red">
     <v-card-title class="d-inline-block">
@@ -43,7 +43,8 @@
       <v-spacer></v-spacer>
       <v-btn
       color="#111111"
-      class="red--text">
+      class="red--text"
+      :to="`/event/${event.id}`">
         {{$t('button.moreInfos')}}
       </v-btn>
     </v-card-actions>
