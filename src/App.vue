@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <Header />
-    <v-layout align-center>
+    <v-layout>
     <v-main fill-height fluid>
       <router-view></router-view>
       <div id="customBackground"></div>
@@ -115,6 +115,21 @@ html {
 }
 
 .theme--dark.v-icon {
+  color: #FF0000!important;
+}
+
+.theme--dark.v-chip:not(.v-chip--active) {
+  background: #FF0000!important;
+  font-weight: bold!important;
+  color: #111111!important;
+}
+
+.theme--dark.v-messages {
+  font-weight: bold!important;
+  color: #FF0000!important;
+}
+
+.theme--dark.v-input, .theme--dark.v-input input, .theme--dark.v-input textarea {
   color: #FF0000!important;
 }
 </style>
